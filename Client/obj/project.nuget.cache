@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFjiLZKrr5mix8XDTet16JtQROnwxM6CK6eTdpUO0NrU1/hqknjtp742SG5qOBS7gm4vJp4fZ4QemywEuzKNgA==",
+  "success": true,
+  "projectFilePath": "C:\\code\\console-apps\\Copier\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korkm\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\korkm\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

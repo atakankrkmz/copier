@@ -1,0 +1,15 @@
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\code\console-apps\Copier\Client\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\code\console-apps\Copier\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
